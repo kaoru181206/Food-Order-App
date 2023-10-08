@@ -37,7 +37,7 @@
 }
 
 .bump {
-    
+    animation: bump 300ms ease-out;
 }
 
 @keyframes bump {
